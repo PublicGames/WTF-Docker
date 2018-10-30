@@ -1,2 +1,2 @@
 # WTF-Docker
-Run your own **WTF** universe in local 
+Run your own **WTF** local universe
